@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=edof&theme=radical&column=7&margin-w=15&margin-h=15" alt="edof" />
+  <a href="https://github.com/edof/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=edof" alt="trophy" />
   </a>
 </p>
 
